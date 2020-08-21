@@ -1,0 +1,45 @@
+.titleofsite {
+  color: #ffffff;
+  text-align: center;
+  margin-top: 60px;
+  background-color: #70d5d8;
+  font-size: 120px;
+  position: relative;
+}
+
+.progress {
+    width: 30%;
+    margin-top: 40px;
+    margin-left: 35%;
+    background-color: #ffffff;
+    border: 1px solid black;
+}
+
+.progress-text {
+  font-family: 'Roboto', sans-serif;
+  margin-left: 49%;
+  margin-top: 20px;
+  margin-bottom: -40px;
+  font-size: 12px;
+}
+
+.explanation {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  margin-top: 0px;
+  font-size: 16px;
+}
+
+hr {
+  background-color: #fff;
+  height: 1px;
+  width: 60%;
+}
+
+.imagetest {
+  background-color: #70d5d8;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}

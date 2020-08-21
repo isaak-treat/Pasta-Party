@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Pasta-Party"
+    }
+  },
+  "defaultProject": "Pasta-Party",
+  "cli": {
+    "analytics": "f6bb936d-3d92-45c3-b167-8ee58e212f2c"
+  }
 }
